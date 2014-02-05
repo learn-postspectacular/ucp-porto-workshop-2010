@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/toxi/toxiclibs_p5.jar"/>
+	<classpathentry kind="lib" path="lib/toxi/toxiclibscore.jar"/>
+	<classpathentry kind="lib" path="lib/core.jar"/>
+	<classpathentry kind="lib" path="lib/toxi/simutils.jar"/>
+	<classpathentry kind="lib" path="lib/toxi/colorutils.jar"/>
+	<classpathentry kind="lib" path="lib/native/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="lib/native/jogl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="olhares_day7/lib/native"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/native/opengl.jar"/>
+	<classpathentry kind="lib" path="lib/toxi/volumeutils.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
